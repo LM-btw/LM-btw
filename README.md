@@ -1,319 +1,257 @@
 <div align="center">
 
-# `> whoami`
+# Lucas Matheus
 
-### **Lucas Matheus** · `LM-btw`
+### `Software Developer` · `Linux Enthusiast` · `Cybersecurity Explorer`
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  USER        : Lucas Matheus                                 ║
-║  ALIAS       : LM                                             ║
-║  OS          : Arch Linux btw                                ║
-║  ROLE        : Software Developer / Linux Enthusiast         ║
-║  FOCUS       : Backend · Systems · Security · Open Source    ║
-║  STATUS      : Learning → Building → Breaking → Improving    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=LM-btw&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-**`"The best way to understand a system is to build one."`**
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-LM--btw-181717?style=for-the-badge\&logo=github)](https://github.com/LM-btw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/)
+<a href="https://github.com/LM-btw">
+  <img src="https://img.shields.io/badge/GitHub-LM--btw-161616?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+> **Building software, exploring systems and learning how technology works beneath the surface.**
 
 </div>
 
 ---
 
-## `> about_me`
+## 👋 About Me
 
-```bash
-$ cat /etc/lm/profile.conf
+I'm **Lucas Matheus**, also known as **LM**.
 
-NAME="Lucas Matheus"
-ALIAS="LM"
-EDUCATION="ADS @ IFSP"
-OS="Arch Linux"
-MAIN_FOCUS="Backend Development"
-INTERESTS=("Cyber Security" "Linux" "Open Source" "Software Engineering")
+I'm currently studying **Analysis and Systems Development (ADS) at IFSP** and building my path in software development.
 
-PHILOSOPHY="Learn how it works. Build it. Break it. Improve it."
-```
+My main interests are **backend development, Linux, cybersecurity, databases and open source**.
 
-I'm a **Software Development student at IFSP**, passionate about understanding how software and operating systems work under the hood.
+I like understanding technology beyond simply using it — from the application layer down to the operating system.
 
-My main interests are **backend development, Linux, cybersecurity, software engineering and open source**.
-
-I enjoy going beyond simply using technology — I want to understand **why it works, how it works and how I can build something of my own with it**.
-
-Currently, I'm focused on turning what I learn into **real projects, experiments and useful software**.
+I'm currently focused on turning what I learn into **real projects, experiments and useful software**.
 
 ---
 
-## `> interests`
+## 🧠 What I'm Into
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  [01] Backend Development                                  │
-│  [02] Linux & System Administration                        │
-│  [03] Cyber Security                                       │
-│  [04] Software Engineering                                 │
-│  [05] Open Source                                          │
-│  [06] Databases                                            │
-│  [07] Programming Languages                                │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Software Development
+
+* Backend development
+* Software architecture
+* APIs
+* Databases
+* Web development
+* Programming fundamentals
+
+</td>
+<td width="50%">
+
+### 🛡️ Cybersecurity
+
+* Linux environments
+* Networking
+* Web security
+* System security
+* Security experimentation
+* Understanding vulnerabilities
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🐧 Linux
 
-Arch Linux is my **main operating system**.
+**Arch Linux** is my daily driver.
 
-I enjoy customizing, troubleshooting and understanding my environment rather than relying entirely on preconfigured solutions.
+I enjoy configuring, customizing and understanding my environment instead of relying entirely on preconfigured solutions.
 
-> **I use Arch btw.**
+</td>
+<td width="50%">
+
+### 🌐 Open Source
+
+I support the open-source ecosystem and the idea that software can be:
+
+**shared · inspected · modified · improved**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> tech_stack`
+# 🧰 Tech Stack
 
-### Languages
+### Programming Languages
 
-<div align="left">
+<p align="left">
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,typescript,javascript" />
 
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
-</a>
+</p>
 
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
-</a>
+### Web Development
 
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
-</a>
+<p align="left">
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,angular" />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
-</a>
-
-</div>
-
-### Web
-
-<div align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3"/>
-</a>
-
-<a href="https://angular.dev/">
-<img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular"/>
-</a>
-
-</div>
+</p>
 
 ### Databases
 
-<div align="left">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-</div>
+</p>
 
-**Knowledge:** `SQL` · `PL/SQL` · relational databases · database modeling
+`SQL` · `PL/SQL` · Relational Databases · Database Modeling
 
 ### Tools & Environment
 
-<div align="left">
+<p align="left">
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,linux,arch,vscode" />
 
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://archlinux.org/">
-<img src="https://skillicons.dev/icons?i=arch" height="45" alt="Arch Linux"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
-</a>
-
-</div>
+</p>
 
 ---
 
-## `> current_mission`
+# 🚀 Currently Building
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [████████████████░░░░]  LEARNING & BUILDING               │
-│                                                             │
-│  → Improve backend development                              │
-│  → Build real-world software                               │
-│  → Explore cybersecurity                                   │
-│  → Improve Linux/System knowledge                           │
-│  → Contribute to open source                                │
-│  → Turn knowledge into projects                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm working toward turning my academic and personal knowledge into **real software projects**.
 
-I'm currently working toward becoming a better **software engineer**, with a strong interest in the intersection between **development, systems and security**.
+Some areas I'm exploring:
 
-I'm especially interested in projects that force me to understand what's happening **behind the abstraction**.
+| Area           | Focus                                           |
+| -------------- | ----------------------------------------------- |
+| 🧩 Backend     | APIs, architecture and application logic        |
+| 🗄️ Databases  | SQL, PL/SQL and data modeling                   |
+| 🐧 Linux       | Systems, configuration and automation           |
+| 🛡️ Security   | Networking, web security and security labs      |
+| 🌐 Web         | TypeScript, JavaScript, HTML & CSS              |
+| 🔓 Open Source | Learning from and contributing to the ecosystem |
 
 ---
 
-## `> cybersecurity`
+# 📂 Projects
 
-Cybersecurity is one of the areas I'm increasingly interested in exploring.
+### 🚗 IFCar
 
-My current approach is focused on **learning how systems work first**, then understanding how they can be secured, tested and improved.
+Academic project developed for the **IFSP community**.
 
-```text
-Linux
-  │
-  ├── Networking
-  │
-  ├── Operating Systems
-  │
-  ├── Programming
-  │
-  ├── Web Applications
-  │
-  └── Databases
-          │
-          ▼
-      SECURITY
-```
+A carpooling platform designed to provide a more organized alternative for students and staff looking for rides.
 
-> **Curiosity → Understanding → Experimentation → Security**
+**Technologies & concepts**
+
+`Web Development` · `Database` · `Backend` · `UML` · `Software Engineering`
 
 ---
 
-## `> open_source`
+### 🛒 Loja Lain
 
-I support the **open-source philosophy** and enjoy the idea of software being built collaboratively, inspected, modified and shared.
+A web development project built while studying **Angular and TypeScript**.
 
-Linux and the open-source ecosystem have had a major influence on how I think about technology.
+The project also represents one of my interests outside traditional development: combining **software with visual identity and experimentation**.
 
-Eventually, I want to contribute more actively to projects that I use and learn from.
+**Technologies**
 
----
-
-## `> projects`
-
-Some of the things I'm building and experimenting with:
-
-### 🏴 `Loja-Lain-Angular`
-
-A functional store project created while learning **Angular and TypeScript**.
-
-> `Status: Learning / Development`
-
-### 🚗 `IFCar`
-
-Academic software project focused on creating a more organized carpooling system for the IFSP community.
-
-> `Backend · Database · Web Development · Software Engineering`
-
-### 🔐 `Future Security Labs`
-
-Personal experiments and laboratories focused on:
-
-```text
-[+] Linux
-[+] Networking
-[+] Web Security
-[+] Programming
-[+] Automation
-[+] System Analysis
-```
+`Angular` · `TypeScript` · `HTML` · `CSS`
 
 ---
 
-## `> philosophy`
+### 🔬 Personal Labs
 
-```text
-             ┌──────────────────┐
-             │    DON'T JUST    │
-             │      USE IT      │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │  UNDERSTAND IT   │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │    BUILD IT      │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │    BREAK IT      │
-             └────────┬─────────┘
-                      │
-                      ▼
-             ┌──────────────────┐
-             │    IMPROVE IT    │
-             └──────────────────┘
-```
+I also use personal projects as a way to experiment with:
+
+**Linux · Networking · Programming · Automation · Security · Databases**
+
+Not everything needs to become a finished product.
+
+Sometimes the best project is simply the one that teaches you something new.
 
 ---
 
-## `> contact`
+# 📚 Learning Path
 
 <div align="center">
 
-### Let's connect.
-
-If you're interested in **Linux, software development, cybersecurity, open source or technology**, feel free to reach out.
-
-[![GitHub](https://img.shields.io/badge/GitHub-LM--btw-000000?style=for-the-badge\&logo=github)](https://github.com/LM-btw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-000000?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/)
-
-```text
-$ echo "See you in the terminal."
-```
+### `LEARN → BUILD → EXPERIMENT → IMPROVE`
 
 </div>
+
+I'm particularly interested in the intersection between:
+
+**Software Development × Linux × Systems × Cybersecurity**
+
+My goal isn't to learn technologies just to add them to a list.
+
+I want to understand **when, why and how** they should be used.
 
 ---
 
+# 🐧 Arch Linux
+
 <div align="center">
 
-```text
-╔══════════════════════════════════════╗
-║          I USE ARCH BTW              ║
-║                                      ║
-║       [ system operational ]         ║
-╚══════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/archlinux/artwork/master/logos/archlinux/archlinux-icon-crystal-64.svg" width="90"/>
 
-**`LM-btw // 2026`**
+### **I use Arch btw.**
+
+`Linux` · `Arch` · `Hyprland` · `Open Source`
 
 </div>
+
+Arch Linux is my main operating system and one of the environments where I spend a lot of time experimenting, configuring and learning.
+
+It has become more than just an OS for me — it's part of how I like to learn technology.
+
+---
+
+# 🎯 Goals
+
+* 🔹 Become a stronger backend developer
+* 🔹 Build increasingly complex software
+* 🔹 Deepen my Linux and systems knowledge
+* 🔹 Explore cybersecurity more seriously
+* 🔹 Contribute to open-source projects
+* 🔹 Create projects that solve real problems
+* 🔹 Turn academic knowledge into practical experience
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/LM-btw">
+<img src="https://img.shields.io/badge/GitHub-LM--btw-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/">
+<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+### 💻 Software · 🐧 Linux · 🛡️ Security · 🔓 Open Source
+
+<br>
+
+*"Stay curious. Build things. Understand how they work."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
