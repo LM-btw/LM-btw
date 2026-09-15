@@ -23,17 +23,19 @@
 
 ---
 
-## 👋 About Me
+## 🧬 About Me
 
 I'm **Lucas Matheus**, also known as **LM**.
 
-I'm currently studying **Analysis and Systems Development (ADS) at IFSP** and building my path in software development.
+I'm currently studying **Analysis and Systems Development (ADS) at IFSP**, building my path in software development and exploring the relationship between software, systems and security.
 
-My main interests are **backend development, Linux, cybersecurity, databases and open source**.
+My main interests are:
 
-I like understanding technology beyond simply using it — from the application layer down to the operating system.
+**Backend Development · Linux · Cybersecurity · Databases · Open Source**
 
-I'm currently focused on turning what I learn into **real projects, experiments and useful software**.
+I enjoy understanding technology beyond simply using it — from the application layer down to the operating system.
+
+Currently, I'm focused on turning what I learn into **real projects, experiments and useful software**.
 
 ---
 
@@ -93,7 +95,7 @@ I support the open-source ecosystem and the idea that software can be:
 
 # 🧰 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
 
@@ -101,7 +103,7 @@ I support the open-source ecosystem and the idea that software can be:
 
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p align="left">
 
@@ -109,7 +111,7 @@ I support the open-source ecosystem and the idea that software can be:
 
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="left">
 
@@ -119,7 +121,7 @@ I support the open-source ecosystem and the idea that software can be:
 
 `SQL` · `PL/SQL` · Relational Databases · Database Modeling
 
-### Tools & Environment
+### 🛠️ Tools & Environment
 
 <p align="left">
 
@@ -129,11 +131,27 @@ I support the open-source ecosystem and the idea that software can be:
 
 ---
 
+<div align="center">
+
+## `SYSTEM STATUS`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%"/>
+
+<br>
+
+`████████████████████████████████████████` **ONLINE**
+
+<br><br>
+
+`Linux`  •  `Development`  •  `Security`  •  `Open Source`
+
+</div>
+
+---
+
 # 🚀 Currently Building
 
 I'm working toward turning my academic and personal knowledge into **real software projects**.
-
-Some areas I'm exploring:
 
 | Area           | Focus                                           |
 | -------------- | ----------------------------------------------- |
@@ -148,23 +166,11 @@ Some areas I'm exploring:
 
 # 📂 Projects
 
-### 🚗 IFCar
-
-Academic project developed for the **IFSP community**.
-
-A carpooling platform designed to provide a more organized alternative for students and staff looking for rides.
-
-**Technologies & concepts**
-
-`Web Development` · `Database` · `Backend` · `UML` · `Software Engineering`
-
----
-
 ### 🛒 Loja Lain
 
 A web development project built while studying **Angular and TypeScript**.
 
-The project also represents one of my interests outside traditional development: combining **software with visual identity and experimentation**.
+The project combines software development with visual identity and experimentation.
 
 **Technologies**
 
@@ -174,7 +180,7 @@ The project also represents one of my interests outside traditional development:
 
 ### 🔬 Personal Labs
 
-I also use personal projects as a way to experiment with:
+Personal experiments used to explore different areas of technology:
 
 **Linux · Networking · Programming · Automation · Security · Databases**
 
@@ -188,13 +194,13 @@ Sometimes the best project is simply the one that teaches you something new.
 
 <div align="center">
 
-### `LEARN → BUILD → EXPERIMENT → IMPROVE`
+### `LEARN` → `BUILD` → `EXPERIMENT` → `IMPROVE`
 
-</div>
-
-I'm particularly interested in the intersection between:
+<br>
 
 **Software Development × Linux × Systems × Cybersecurity**
+
+</div>
 
 My goal isn't to learn technologies just to add them to a list.
 
@@ -206,7 +212,7 @@ I want to understand **when, why and how** they should be used.
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/archlinux/artwork/master/logos/archlinux/archlinux-icon-crystal-64.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmaE6kGzsMjsqHOuWSIL35D8Hn8a7ui6Gye9dx4vW1w&s=10)" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Archlinux-logo-standard-version.png" width="110"/>
 
 ### **I use Arch btw.**
 
@@ -217,6 +223,16 @@ I want to understand **when, why and how** they should be used.
 Arch Linux is my main operating system and one of the environments where I spend a lot of time experimenting, configuring and learning.
 
 It has become more than just an OS for me — it's part of how I like to learn technology.
+
+---
+
+# 🌧️ Digital Rain
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/assets/matrix.gif" width="100%"/>
+
+</div>
 
 ---
 
