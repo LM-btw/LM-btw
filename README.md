@@ -206,7 +206,7 @@ I want to understand **when, why and how** they should be used.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/archlinux/artwork/master/logos/archlinux/archlinux-icon-crystal-64.svg" width="90"/>
+<img src="[https://raw.githubusercontent.com/archlinux/artwork/master/logos/archlinux/archlinux-icon-crystal-64.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmaE6kGzsMjsqHOuWSIL35D8Hn8a7ui6Gye9dx4vW1w&s=10)" width="90"/>
 
 ### **I use Arch btw.**
 
