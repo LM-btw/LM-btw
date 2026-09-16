@@ -153,7 +153,7 @@ interests:
 <img src="./assets/arch-xorg.png" width="700" alt="Arch Linux"/>
 
 <br>
-
+<br>
 </div>
 
 > **Arch is not just the distro I use. It's the environment where I like to experiment.**
