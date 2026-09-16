@@ -1,273 +1,143 @@
-<div align="center">
-
 # Lucas Matheus
 
-### `Software Developer` · `Linux Enthusiast` · `Cybersecurity Explorer`
+> **Software Developer · Linux Enthusiast · Cybersecurity Explorer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=LM-btw&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+```
+$ whoami
+lucas_matheus
+$ cat interests.txt
+Backend Development | Linux Systems | Cybersecurity | Open Source
+$ echo "Building software, exploring systems." && echo "Understanding technology beneath the surface."
+```
 
-<br>
+---
 
-<a href="https://github.com/LM-btw">
-  <img src="https://img.shields.io/badge/GitHub-LM--btw-161616?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## About Me
 
-<br><br>
+I'm a student of **Analysis and Systems Development (ADS) at IFSP**, building my path through software development with a deep focus on understanding how systems work at every layer.
 
-> **Building software, exploring systems and learning how technology works beneath the surface.**
+I'm passionate about backend development, Linux environments, cybersecurity, and the open-source ecosystem. Rather than simply using technology, I prefer understanding it—from application architecture down to operating system internals.
+
+Currently focused on: **Converting learning into real projects, experiments, and meaningful software.**
+
+### Core Interests
+
+```
+┌─ Backend Development
+│  ├─ Software Architecture
+│  ├─ APIs & Services
+│  └─ Database Design
+│
+├─ Linux & Systems
+│  ├─ Environment Configuration
+│  ├─ Networking
+│  └─ System Automation
+│
+└─ Security
+   ├─ Web Security
+   ├─ System Hardening
+   └─ Vulnerability Research
+```
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web & Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white)
+
+**Expertise:** Relational Design · PL/SQL · Query Optimization · Database Modeling
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Current Projects
+
+### Loja Lain
+Web application exploring Angular and TypeScript with emphasis on software architecture and visual design.
+
+**Stack:** Angular · TypeScript · HTML · CSS
+
+### Personal Labs
+Continuous experimentation across multiple domains:
+- Linux system configuration and automation
+- Network architecture and protocols
+- Programming paradigms and design patterns
+- Security research and lab environments
+- Database design and optimization
+
+*Philosophy: Not all projects need to be finished products. The best project is one that teaches you something new.*
+
+---
+
+## Learning Path
+
+```
+LEARN → BUILD → EXPERIMENT → IMPROVE
+     ↓        ↓        ↓          ↓
+  Theory   Practice  Results   Mastery
+```
+
+My approach isn't accumulating technologies for a portfolio. It's understanding **when, why, and how** each tool should be applied.
+
+**Focus Areas:**
+- Deepen backend development expertise
+- Master Linux systems and kernel concepts
+- Explore cybersecurity research
+- Build increasingly complex software
+- Contribute to open-source projects
+
+---
+
+## Operating Environment
+
+**Daily Driver:** Arch Linux  
+**Window Manager:** Hyprland  
+**Philosophy:** Understanding over convenience
+
+Arch Linux represents more than just an operating system to me—it's an environment for deliberate learning where configuration and customization are essential skills.
+
+---
+
+## Connect
+
+```bash
+$ find . -type links -name "social"
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-LM--btw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LM-btw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/)
 
 </div>
 
 ---
 
-## 🧬 About Me
-
-I'm **Lucas Matheus**, also known as **LM**.
-
-I'm currently studying **Analysis and Systems Development (ADS) at IFSP**, building my path in software development and exploring the relationship between software, systems and security.
-
-My main interests are:
-
-**Backend Development · Linux · Cybersecurity · Databases · Open Source**
-
-I enjoy understanding technology beyond simply using it — from the application layer down to the operating system.
-
-Currently, I'm focused on turning what I learn into **real projects, experiments and useful software**.
-
----
-
-## 🧠 What I'm Into
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚙️ Software Development
-
-* Backend development
-* Software architecture
-* APIs
-* Databases
-* Web development
-* Programming fundamentals
-
-</td>
-<td width="50%">
-
-### 🛡️ Cybersecurity
-
-* Linux environments
-* Networking
-* Web security
-* System security
-* Security experimentation
-* Understanding vulnerabilities
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐧 Linux
-
-**Arch Linux** is my daily driver.
-
-I enjoy configuring, customizing and understanding my environment instead of relying entirely on preconfigured solutions.
-
-</td>
-<td width="50%">
-
-### 🌐 Open Source
-
-I support the open-source ecosystem and the idea that software can be:
-
-**shared · inspected · modified · improved**
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,typescript,javascript" />
-
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,angular" />
-
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
-
-`SQL` · `PL/SQL` · Relational Databases · Database Modeling
-
-### 🛠️ Tools & Environment
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,arch,vscode" />
-
-</p>
-
----
-
 <div align="center">
 
-## `SYSTEM STATUS`
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%"/>
-
-<br>
-
-`████████████████████████████████████████` **ONLINE**
-
-<br><br>
-
-`Linux`  •  `Development`  •  `Security`  •  `Open Source`
-
-</div>
-
----
-
-# 🚀 Currently Building
-
-I'm working toward turning my academic and personal knowledge into **real software projects**.
-
-| Area           | Focus                                           |
-| -------------- | ----------------------------------------------- |
-| 🧩 Backend     | APIs, architecture and application logic        |
-| 🗄️ Databases  | SQL, PL/SQL and data modeling                   |
-| 🐧 Linux       | Systems, configuration and automation           |
-| 🛡️ Security   | Networking, web security and security labs      |
-| 🌐 Web         | TypeScript, JavaScript, HTML & CSS              |
-| 🔓 Open Source | Learning from and contributing to the ecosystem |
-
----
-
-# 📂 Projects
-
-### 🛒 Loja Lain
-
-A web development project built while studying **Angular and TypeScript**.
-
-The project combines software development with visual identity and experimentation.
-
-**Technologies**
-
-`Angular` · `TypeScript` · `HTML` · `CSS`
-
----
-
-### 🔬 Personal Labs
-
-Personal experiments used to explore different areas of technology:
-
-**Linux · Networking · Programming · Automation · Security · Databases**
-
-Not everything needs to become a finished product.
-
-Sometimes the best project is simply the one that teaches you something new.
-
----
-
-# 📚 Learning Path
-
-<div align="center">
-
-### `LEARN` → `BUILD` → `EXPERIMENT` → `IMPROVE`
-
-<br>
-
-**Software Development × Linux × Systems × Cybersecurity**
-
-</div>
-
-My goal isn't to learn technologies just to add them to a list.
-
-I want to understand **when, why and how** they should be used.
-
----
-
-# 🐧 Arch Linux
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Archlinux-logo-standard-version.png" width="110"/>
-
-### **I use Arch btw.**
-
-`Linux` · `Arch` · `Hyprland` · `Open Source`
-
-</div>
-
-Arch Linux is my main operating system and one of the environments where I spend a lot of time experimenting, configuring and learning.
-
-It has become more than just an OS for me — it's part of how I like to learn technology.
-
----
-
-# 🌧️ Digital Rain
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/assets/matrix.gif" width="100%"/>
-
-</div>
-
----
-
-# 🎯 Goals
-
-* 🔹 Become a stronger backend developer
-* 🔹 Build increasingly complex software
-* 🔹 Deepen my Linux and systems knowledge
-* 🔹 Explore cybersecurity more seriously
-* 🔹 Contribute to open-source projects
-* 🔹 Create projects that solve real problems
-* 🔹 Turn academic knowledge into practical experience
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/LM-btw">
-<img src="https://img.shields.io/badge/GitHub-LM--btw-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/">
-<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-### 💻 Software · 🐧 Linux · 🛡️ Security · 🔓 Open Source
-
-<br>
+**Software · Linux · Security · Open Source**
 
 *"Stay curious. Build things. Understand how they work."*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
