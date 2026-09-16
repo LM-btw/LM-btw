@@ -364,8 +364,6 @@ while (curious) {
 
 `Linux` · `Code` · `Security` · `Systems`
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:050505&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
