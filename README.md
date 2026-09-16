@@ -1,57 +1,58 @@
-# Lucas Matheus
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=LUCAS%20MATHEUS&fontSize=90&fontColor=00ff88&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <div align="center">
 
-```
- _     _   _      _   _    _ 
-| |   | | | |    / / | |  / /
-| |__ | | | |   / /  | | / / 
-|  __|| | | |  / /   | |/ /  
-| |   | |_| | / /__  |   \   
-|_|    \___/ /_____| |_|\_\  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&duration=4000&pause=1000&color=00FF88&center=true&width=600&lines=Software+Developer;Linux+Enthusiast;Cybersecurity+Explorer;Backend+Specialist;System+Architect)](https://git.io/typing-svg)
 
-LM-btw | Developer Profile
-```
+<br>
 
-### `Software Developer` · `Linux Enthusiast` · `Cybersecurity Explorer`
-
-![Status](https://img.shields.io/badge/status-ONLINE-00ff88?style=flat-square&labelColor=0a0e27)
-![Build](https://img.shields.io/badge/build-ACTIVE-00d9ff?style=flat-square&labelColor=0a0e27)
-![Focus](https://img.shields.io/badge/focus-BACKEND-ff006e?style=flat-square&labelColor=0a0e27)
+![Status Badge](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logoColor=white&labelColor=0a0e27)
+![Build Badge](https://img.shields.io/badge/BUILD-ACTIVE-00d9ff?style=for-the-badge&logoColor=white&labelColor=0a0e27)
+![Focus Badge](https://img.shields.io/badge/FOCUS-BACKEND-ff006e?style=for-the-badge&logoColor=white&labelColor=0a0e27)
 
 </div>
 
 ---
 
-## 🧬 About Me
+<div align="center">
+
+### 🔥 Welcome to My Dev Profile
 
 ```bash
 $ whoami
 lucas_matheus
 
-$ cat /dev/motivation
-Building software, exploring systems, understanding technology.
+$ cat interests.txt
+Backend Development | Linux Systems | Cybersecurity | Open Source
 
-$ echo $EXPERIENCE
-Arch Linux | Backend Development | Cybersecurity Labs
+$ echo $status
+BUILDING & LEARNING
 ```
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS) no IFSP**, construindo meu caminho através do desenvolvimento de software. Foco especial em entender como os sistemas funcionam em cada camada.
+> "Building software, exploring systems, understanding technology beneath the surface."
 
-**Meus interesses:**
-- Backend Development & Software Architecture
-- Linux Systems & Kernel Exploration  
-- Cybersecurity & Security Research
-- Open Source & Community Contribution
-- Database Design & Optimization
-
-> *"Stay curious. Build things. Understand how they work."*
+</div>
 
 ---
 
-## 🔥 Tech Stack
+## 📖 About Me
 
-### Languages & Runtimes
+Sou um estudante de **Análise e Desenvolvimento de Sistemas (ADS) no IFSP**, dedicado a construir software de qualidade e explorar como a tecnologia realmente funciona. 
+
+Minha paixão está em:
+- ⚙️ **Backend Development** - APIs robustas e escaláveis
+- 🐧 **Linux & Systems** - Kernel, automação, DevOps
+- 🛡️ **Cybersecurity** - Segurança web, pesquisa, labs
+- 🌐 **Open Source** - Comunidade e colaboração
+- 🗄️ **Databases** - SQL, design relacional, otimização
+
+Prefiro **entender profundamente** a tecnologia ao invés de apenas usá-la.
+
+---
+
+## 🚀 Tech Arsenal
+
+### 💻 Languages
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -63,26 +64,26 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS) no IFSP**, construin
 
 </div>
 
-### Frontend & Web
+### 🌐 Frontend & Web
 <div align="center">
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
-### Databases & Backend
+### 🗄️ Databases & Backend
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
-### Tools & Environment
+### 🛠️ Tools & Environment
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -96,97 +97,177 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS) no IFSP**, construin
 
 ---
 
-## 🎯 Areas of Focus
+## ⚡ Expertise Areas
 
-| Area | Description |
-|------|-------------|
-| **Backend Development** | APIs robustas, arquitetura escalável, lógica de aplicação eficiente |
-| **Linux & Systems** | Configuração, automação, entendimento profundo de SO |
-| **Databases** | Design relacional, otimização, modelagem avançada |
-| **Cybersecurity** | Segurança web, hardening, pesquisa de vulnerabilidades |
-| **Open Source** | Contribuindo ao ecossistema de software livre |
-| **Web Development** | Interfaces responsivas e performáticas |
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 Backend Development
+```
+├── API Design
+├── Microservices
+├── Software Architecture
+├── Performance Optimization
+└── Scalability
+```
+
+</td>
+<td width="50%">
+
+### 🟢 Linux & Systems
+```
+├── Kernel Exploration
+├── System Administration
+├── Automation & Scripting
+├── DevOps & CI/CD
+└── Network Configuration
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔵 Databases
+```
+├── SQL Optimization
+├── Relational Design
+├── Query Performance
+├── Data Modeling
+└── PL/SQL
+```
+
+</td>
+<td width="50%">
+
+### 🟣 Cybersecurity
+```
+├── Web Security
+├── Network Security
+├── Vulnerability Research
+├── Security Labs
+└── Penetration Testing
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Projects
+## 🎯 Learning Path Philosophy
 
-### Loja Lain
-Projeto web explorando **Angular** e **TypeScript** com foco em arquitetura de software e identidade visual.
+<div align="center">
 
-**Stack:** `Angular` · `TypeScript` · `HTML` · `CSS`
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LM-btw&repo=LM-btw&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00ff88&text_color=e0e0e0&icon_color=00d9ff)](https://github.com/LM-btw)
 
-### Personal Labs
-Experimentos contínuos em múltiplos domínios:
-- Linux system configuration & automation
-- Network protocols & architecture
-- Programming paradigms & design patterns
-- Security research & labs
-- Database optimization
-
----
-
-## 📚 Learning Philosophy
+</div>
 
 ```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  LEARN → BUILD → EXPERIMENT → IMPROVE            │
-│    ↓       ↓         ↓            ↓              │
-│  Theory Practice  Results      Mastery           │
-│                                                  │
-└──────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   LEARN → BUILD → EXPERIMENT → IMPROVE                    ║
+║     ↓       ↓         ↓            ↓                       ║
+║   Theory Practice  Results      Mastery                   ║
+║                                                            ║
+║  Não é acumular tecnologias. É entender QUANDO,           ║
+║  POR QUÊ e COMO cada ferramenta deve ser aplicada.        ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-Minha abordagem não é acumular tecnologias. É entender **quando, por quê e como** cada ferramenta deve ser aplicada.
+### Current Goals
+<div align="center">
 
-### Goals
+![Goal 1](https://img.shields.io/badge/Backend_Mastery-In_Progress-00ff88?style=for-the-badge&logoColor=white&labelColor=0a0e27)
+![Goal 2](https://img.shields.io/badge/Linux_Kernel-In_Progress-00d9ff?style=for-the-badge&logoColor=white&labelColor=0a0e27)
+![Goal 3](https://img.shields.io/badge/Security_Research-In_Progress-ff006e?style=for-the-badge&logoColor=white&labelColor=0a0e27)
+![Goal 4](https://img.shields.io/badge/Open_Source-Contribution-ffbe0b?style=for-the-badge&logoColor=black&labelColor=0a0e27)
 
-- ✓ Dominar Backend Development
-- ✓ Aprofundar conhecimento em Linux & Kernel
-- ✓ Explorar Cybersecurity
-- ✓ Construir software complexo e real
-- ✓ Contribuir ao Open Source
-- ✓ Arquitetar sistemas escaláveis
+</div>
 
 ---
 
 ## 🐧 Operating Environment
 
-**Daily Driver:** Arch Linux  
-**Window Manager:** Hyprland  
-**Philosophy:** Understanding over convenience
+<div align="center">
 
 ```bash
-$ uname -a
-Linux arch 6.x.x #1 SMP PREEMPT x86_64 GNU/Linux
-
-$ cat ~/.config/system_philosophy
-Arch Linux é mais que um SO. É um ambiente para
-aprendizado deliberado onde configuração e
-customização são habilidades essenciais.
+┌─────────────────────────────────────────────┐
+│  ╔═══════════════════════════════════════╗  │
+│  ║   🎯 CURRENT SETUP                   ║  │
+│  ╚═══════════════════════════════════════╝  │
+│                                             │
+│  OS:              Arch Linux (btw)          │
+│  Window Manager:  Hyprland                  │
+│  Shell:           zsh                       │
+│  Editor:          VS Code / Vim             │
+│  Kernel:          Linux (Custom)            │
+│  Philosophy:      Understanding > Comfort   │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LM-btw&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00ff88&text_color=e0e0e0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LM-btw&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00ff88&text_color=e0e0e0&layout=compact)
+**Arch Linux** is more than just an OS for me — it's an environment for deliberate learning where configuration and customization are essential.
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-LM--btw-181717?style=for-the-badge&logo=github)](https://github.com/LM-btw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LM-btw&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00ff88&text_color=e0e0e0&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LM-btw&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00ff88&text_color=e0e0e0&layout=compact)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LM-btw&theme=radical&hide_border=true&background=0a0e27&ring=00ff88&fire=ff006e&currStreakNum=e0e0e0&currStreakLabel=00d9ff&sideNums=e0e0e0&sideLabels=b0b0b0&dates=b0b0b0&stroke=1a1f3a)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### Loja Lain
+> Web application with focus on Angular, TypeScript and system architecture
+
+**Tech Stack:** `Angular` · `TypeScript` · `HTML5` · `CSS3` · `Web Design`
+
+**Highlights:**
+- Modern responsive design
+- Component-based architecture
+- Visual identity & branding
+
+---
+
+## 💡 Personal Labs & Experiments
+
+Continuous exploration across multiple domains:
+
+```
+🔬 Research Areas:
+├── Linux System Programming
+├── Network Protocols & Architecture
+├── Database Optimization & Performance
+├── Security Research & Penetration Testing
+├── Backend API Design Patterns
+├── Cloud & Container Technologies
+└── Open Source Contribution
+```
+
+*Philosophy: Not all projects need to be finished products. The best project is one that teaches you something new.*
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-LM--btw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LM-btw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Matheus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-torres-cardoso-6996b8273/)
 
 </div>
 
@@ -194,25 +275,31 @@ customização são habilidades essenciais.
 
 <div align="center">
 
-### Tech Stack Expertise
+### Tech Philosophy
 
 ```
-⚙️  Backend    │  🐧 Linux     │  🛡️  Security  │  🌐 Open Source
-Scalable APIs │  Kernel Deep  │  Web Security   │  Community First
-Microservices │  Automation   │  Pentesting     │  Contribution
-Performance   │  DevOps       │  Hardening      │  Collaboration
+🎯 APPROACH:
+  Code → Think → Experiment → Learn → Build Better
+
+💡 MINDSET:
+  "I don't just code, I understand systems"
+
+🚀 GOAL:
+  Transform theory into production-grade software
 ```
 
 ---
 
-**"Building software, exploring systems, understanding technology beneath the surface."**
+![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=150&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20%26%20Code&fontSize=40&fontColor=00ff88" width="100%"/>
 
 <div align="center">
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)
+### Last Updated: 2024
+
+*"Code is poetry written for machines, but read by humans."*
 
 </div>
