@@ -366,10 +366,6 @@ while (curious) {
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:050505&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
