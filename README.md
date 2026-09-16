@@ -15,14 +15,17 @@
 
 <br><br>
 
-I USE ARCH BTW
+# `I USE ARCH BTW`
 
-sudo pacman -S curiosity
+### `sudo pacman -S curiosity`
 
 </div>
 
-01 // WHOAMI
+---
 
+## `01 // WHOAMI`
+
+```bash
 $ whoami
 lucas
 
@@ -32,8 +35,9 @@ role="Software Developer"
 environment="Linux"
 focus="Code + Systems + Security"
 status="learning"
+```
 
-I'm a software development student who enjoys Linux, programming, cybersecurity, backend development and understanding how systems work.
+I'm a software development student who enjoys **Linux, programming, cybersecurity, backend development and understanding how systems work**.
 
 I like building things, experimenting with new technologies and getting my hands dirty with the system underneath.
 
@@ -43,6 +47,7 @@ Sometimes that means spending two hours figuring out why something stopped worki
 
 And sometimes...
 
+```bash
 $ sudo pacman -Syu
 
 :: Synchronizing package databases...
@@ -53,8 +58,11 @@ $ sudo pacman -Syu
 
 $ echo $USER
 lucas
+```
 
-02 // INTERESTS
+---
+
+## `02 // INTERESTS`
 
 <div align="center">
 
@@ -64,6 +72,7 @@ lucas
 
 <br>
 
+```yaml
 interests:
   linux:
     - Arch Linux
@@ -89,10 +98,13 @@ interests:
     - "How does it work?"
     - "Can I build it?"
     - "What happens if I change this?"
+```
 
-03 // TECH STACK
+---
 
-languages
+## `03 // TECH STACK`
+
+### `languages`
 
 <div align="center">
 
@@ -100,7 +112,7 @@ languages
 
 </div>
 
-backend / web
+### `backend / web`
 
 <div align="center">
 
@@ -108,7 +120,7 @@ backend / web
 
 </div>
 
-tools / environment
+### `tools / environment`
 
 <div align="center">
 
@@ -116,7 +128,7 @@ tools / environment
 
 </div>
 
-security
+### `security`
 
 <div align="center">
 
@@ -128,24 +140,39 @@ security
 
 </div>
 
-04 // ARCH LINUX
+---
+
+## `04 // ARCH LINUX`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=900&color=1793D1&center=true&vCenter=true&width=650&lines=%24+cat+%2Fetc%2Fos-release;NAME%3D%22Arch+Linux%22;I+USE+ARCH+BTW"/>
-
-<br><br>
-
-<img src="./assets/arch-xorg.png" width="700" alt="Arch Linux - if you can read this, xorg is still working"/>
+### `I USE ARCH BTW`
 
 <br>
 
-Arch is not just the distro I use. It's the environment where I like to experiment.
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⢱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡀⠆⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠃⢌⠰⠁⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠳⣥⠈⡄⠣⢐⡆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⠂⠔⡈⠝⢂⠡⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢰⠧⢈⠒⡈⠔⡈⣼⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⢯⣳⠀⠆⣡⠞⠒⢿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢰⢏⡾⣹⠐⡸⠁⠀⠀⠀⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀
+⠀⠀⠀⠀⡰⣍⠞⣵⢳⡌⠴⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⡦⠀⠀⠀
+⠀⠀⠀⣸⠱⣎⣽⠸⠟⠂⠓⠀⠀⠀⠀⠘⠙⛛⠿⣿⣿⣿⣦⠀⠀
+⠀⢀⢴⠣⠛⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣧⡀
+⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀
+```
 
 </div>
 
+> **Arch is not just the distro I use. It's the environment where I like to experiment.**
+
 My setup revolves around:
 
+```json
 {
   "os": "Arch Linux",
   "display_server": "Wayland",
@@ -156,16 +183,22 @@ My setup revolves around:
   "browser": "Zen",
   "containers": "Docker"
 }
+```
 
 And yes:
 
+```bash
 $ cat /etc/os-release | grep NAME
+
 NAME="Arch Linux"
 
 $ echo "I use Arch btw"
 I use Arch btw
+```
 
-05 // LINUX IS A HOBBY
+---
+
+## `05 // LINUX IS A HOBBY`
 
 <div align="center">
 
@@ -177,6 +210,7 @@ Linux is one of the things I genuinely enjoy exploring.
 
 I like customizing my environment, understanding what's happening under the hood, experimenting with different tools and solving problems that probably could have been avoided by using something simpler.
 
+```bash
 $ journalctl -b -p warning
 
 warning: something broke
@@ -187,11 +221,15 @@ $ systemctl --failed
 
 $ echo "nice."
 nice.
+```
 
-06 // CYBERSECURITY
+---
 
-Cybersecurity is another area I'm exploring because I enjoy understanding how applications, networks and systems behave when things don't go exactly as expected.
+## `06 // CYBERSECURITY`
 
+Cybersecurity is another area I'm exploring because I enjoy understanding **how applications, networks and systems behave when things don't go exactly as expected**.
+
+```python
 security = {
     "web": [
         "HTTP / HTTPS",
@@ -221,11 +259,15 @@ security = {
         "experimentation"
     ]
 }
+```
 
-learn → test → break → understand → improve
+> `learn → test → break → understand → improve`
 
-07 // DEVELOPMENT
+---
 
+## `07 // DEVELOPMENT`
+
+```javascript
 const lucas = {
     likes: [
         "building software",
@@ -244,10 +286,13 @@ const lucas = {
         "repeat"
     ]
 };
+```
 
-I'm particularly interested in backend development and systems, but I like exploring different areas rather than limiting myself to one technology.
+I'm particularly interested in **backend development and systems**, but I like exploring different areas rather than limiting myself to one technology.
 
-08 // GITHUB
+---
+
+## `08 // GITHUB`
 
 <div align="center">
 
@@ -263,7 +308,9 @@ I'm particularly interested in backend development and systems, but I like explo
 
 </div>
 
-09 // CURRENTLY
+---
+
+## `09 // CURRENTLY`
 
 <div align="center">
 
@@ -277,6 +324,7 @@ I'm particularly interested in backend development and systems, but I like explo
 
 <br>
 
+```text
 learning is an infinite loop
 
 while (curious) {
@@ -286,8 +334,11 @@ while (curious) {
     debug();
     understand();
 }
+```
 
-10 // CONNECT
+---
+
+## `10 // CONNECT`
 
 <div align="center">
 
@@ -301,6 +352,8 @@ while (curious) {
 
 </div>
 
+---
+
 <div align="center">
 
 <br>
@@ -309,7 +362,7 @@ while (curious) {
 
 <br><br>
 
-Linux · Code · Security · Systems
+`Linux` · `Code` · `Security` · `Systems`
 
 <br><br>
 
