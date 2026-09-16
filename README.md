@@ -142,6 +142,9 @@ interests:
 
 ---
 
+
+---
+
 ## `04 // ARCH LINUX`
 
 <div align="center">
@@ -150,25 +153,13 @@ interests:
 
 <br>
 
-```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⢱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡀⠆⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡤⠃⢌⠰⠁⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠳⣥⠈⡄⠣⢐⡆⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢠⠂⠔⡈⠝⢂⠡⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢰⠧⢈⠒⡈⠔⡈⣼⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣠⢯⣳⠀⠆⣡⠞⠒⢿⣿⣿⣿⣿⡦⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢰⢏⡾⣹⠐⡸⠁⠀⠀⠀⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀
-⠀⠀⠀⠀⡰⣍⠞⣵⢳⡌⠴⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⡦⠀⠀⠀
-⠀⠀⠀⣸⠱⣎⣽⠸⠟⠂⠓⠀⠀⠀⠀⠘⠙⛛⠿⣿⣿⣿⣦⠀⠀
-⠀⢀⢴⠣⠛⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣧⡀
-⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀
-```
+<img src="./assets/arch-xorg.png" width="700"/>
 
-</div>
+<br>
 
 > **Arch is not just the distro I use. It's the environment where I like to experiment.**
+
+</div>
 
 My setup revolves around:
 
@@ -183,20 +174,6 @@ My setup revolves around:
   "browser": "Zen",
   "containers": "Docker"
 }
-```
-
-And yes:
-
-```bash
-$ cat /etc/os-release | grep NAME
-
-NAME="Arch Linux"
-
-$ echo "I use Arch btw"
-I use Arch btw
-```
-
----
 
 ## `05 // LINUX IS A HOBBY`
 
